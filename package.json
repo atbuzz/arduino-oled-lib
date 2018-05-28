@@ -1,0 +1,23 @@
+{
+  "name": "arduino-oled-lib",
+  "version": "1.0.0",
+  "description": "A NodeJS library for manipulating OLED screens on an Arduino.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atbuzz/arduino-oled-lib.git"
+  },
+  "author": "atbuzz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/atbuzz/arduino-oled-lib/issues"
+  },
+  "homepage": "https://github.com/atbuzz/arduino-oled-lib#readme",
+  "devDependencies": {
+    "jest": "^23.0.1",
+    "johnny-five": "^0.15.0"
+  }
+}
