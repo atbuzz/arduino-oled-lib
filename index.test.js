@@ -4,6 +4,6 @@ test('checks if five exists.', () => {
   expect(five).toBeDefined();
 });
 
-test('checks if board exists.' () => {
+test('checks if board exists.', () => {
   expect(board).toBeDefined();
-})
+});
